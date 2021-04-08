@@ -1,2 +1,1 @@
-apt-get install cmake
-apt-get install sed
+apt-get install cmake sed -y
