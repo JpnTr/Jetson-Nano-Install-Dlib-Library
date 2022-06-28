@@ -1,0 +1,3 @@
+/home/ahmed/Jetson-Nano-Install-Dlib-Library/dlib-19.24/build/dlib/test_for_libpng_build/CMakeFiles/rebuild_cache.dir
+/home/ahmed/Jetson-Nano-Install-Dlib-Library/dlib-19.24/build/dlib/test_for_libpng_build/CMakeFiles/libpng_test.dir
+/home/ahmed/Jetson-Nano-Install-Dlib-Library/dlib-19.24/build/dlib/test_for_libpng_build/CMakeFiles/edit_cache.dir

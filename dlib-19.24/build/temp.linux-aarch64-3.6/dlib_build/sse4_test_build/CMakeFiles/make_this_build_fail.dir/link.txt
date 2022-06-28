@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmake_this_build_fail.a  CMakeFiles/make_this_build_fail.dir/this_file_doesnt_compile.cpp.o
+/usr/bin/ranlib libmake_this_build_fail.a
