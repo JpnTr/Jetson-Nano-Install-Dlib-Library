@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ahmed/Jetson-Nano-Install-Dlib-Library/dlib-19.24/dlib/cmake_utils/test_for_sse4/this_file_doesnt_compile.cpp
+

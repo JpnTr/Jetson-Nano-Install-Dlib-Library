@@ -1,0 +1,3 @@
+/home/ahmed/Jetson-Nano-Install-Dlib-Library/dlib-19.24/build/temp.linux-aarch64-3.6/dlib_build/cudnn_test_build/CMakeFiles/rebuild_cache.dir
+/home/ahmed/Jetson-Nano-Install-Dlib-Library/dlib-19.24/build/temp.linux-aarch64-3.6/dlib_build/cudnn_test_build/CMakeFiles/cudnn_test.dir
+/home/ahmed/Jetson-Nano-Install-Dlib-Library/dlib-19.24/build/temp.linux-aarch64-3.6/dlib_build/cudnn_test_build/CMakeFiles/edit_cache.dir

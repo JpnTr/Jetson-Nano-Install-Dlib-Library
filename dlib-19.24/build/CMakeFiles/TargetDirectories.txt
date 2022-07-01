@@ -1,0 +1,17 @@
+/home/ahmed/Jetson-Nano-Install-Dlib-Library/dlib-19.24/build/CMakeFiles/install/strip.dir
+/home/ahmed/Jetson-Nano-Install-Dlib-Library/dlib-19.24/build/CMakeFiles/install/local.dir
+/home/ahmed/Jetson-Nano-Install-Dlib-Library/dlib-19.24/build/CMakeFiles/package_source.dir
+/home/ahmed/Jetson-Nano-Install-Dlib-Library/dlib-19.24/build/CMakeFiles/package.dir
+/home/ahmed/Jetson-Nano-Install-Dlib-Library/dlib-19.24/build/CMakeFiles/install.dir
+/home/ahmed/Jetson-Nano-Install-Dlib-Library/dlib-19.24/build/CMakeFiles/edit_cache.dir
+/home/ahmed/Jetson-Nano-Install-Dlib-Library/dlib-19.24/build/CMakeFiles/rebuild_cache.dir
+/home/ahmed/Jetson-Nano-Install-Dlib-Library/dlib-19.24/build/CMakeFiles/list_install_components.dir
+/home/ahmed/Jetson-Nano-Install-Dlib-Library/dlib-19.24/build/dlib/CMakeFiles/install/strip.dir
+/home/ahmed/Jetson-Nano-Install-Dlib-Library/dlib-19.24/build/dlib/CMakeFiles/install/local.dir
+/home/ahmed/Jetson-Nano-Install-Dlib-Library/dlib-19.24/build/dlib/CMakeFiles/install.dir
+/home/ahmed/Jetson-Nano-Install-Dlib-Library/dlib-19.24/build/dlib/CMakeFiles/package.dir
+/home/ahmed/Jetson-Nano-Install-Dlib-Library/dlib-19.24/build/dlib/CMakeFiles/package_source.dir
+/home/ahmed/Jetson-Nano-Install-Dlib-Library/dlib-19.24/build/dlib/CMakeFiles/dlib.dir
+/home/ahmed/Jetson-Nano-Install-Dlib-Library/dlib-19.24/build/dlib/CMakeFiles/rebuild_cache.dir
+/home/ahmed/Jetson-Nano-Install-Dlib-Library/dlib-19.24/build/dlib/CMakeFiles/edit_cache.dir
+/home/ahmed/Jetson-Nano-Install-Dlib-Library/dlib-19.24/build/dlib/CMakeFiles/list_install_components.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/libjpeg_test.dir/libjpeg_test.cpp.o  -o libjpeg_test -ljpeg 
